@@ -5,3 +5,4 @@ people: experienced sailblind team (2nd in 2014 blind nationals) composed of Pau
 platform: Viper 640, which is a 3-to-4 person racing boat; rig easily dropped and raised; boat easily transported to various sailing venues; 2 of the project participants own one; community of Viper 640 owners value controlled innovation and initiatives for making sailing more inclusive.  
 project brief original creation date: 2015-04-26
 project brief original url: https://trello.com/c/wPQKkQCM/4-project-brief
+intent for this document: update as understanding changes
