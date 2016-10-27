@@ -17,7 +17,9 @@ Mike's article doesn't cover important considerations like draft, twist, angle o
 
 Since leech telltales generally don't get much attention when you sail off the wind, does anyone have thoughts on whether they should be ignored for points of sail other than upwind? Any other dead-simple trim indicators to recommend for off the wind?
 
-A few more from a quick search for 'leech telltale' on the Sailing World website:
+This tech will be universally useful (i.e. for all sailors regardless of acuity, including fully sighted, and regardless of racing vs cruising).
+
+A few more from a quick search for 'leech telltale' on the Sailing World website, several of which mention difficulty of seeing leech telltales:
 
 http://www.sailingworld.com/how-to/boatspeed-jib-and-flow
 http://www.sailingworld.com/top-10-tips-for-your-bag-tricks?dom=rss-default&src=syn
