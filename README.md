@@ -3,7 +3,15 @@ development of devices and software that enable non-visual sailtrim
 
 contribution is open to all comers - please submit pull requests for mods to documentation and create discussions in the issue queue
 
+Signals can ramp up or down to indicate how extreme the changes are, with more notable signals indicating more notable changes.
+
 For what it's worth, solving this question will make an enormous difference for anyone who trims sails without seeing them. Even basic trim indications will change how both non-sighted and sighted people sail (plenty of sighted use cases).
+
+One challenge for an audible telltale will be usability of signals, and the relatively low priority level it should have in the soundscape (i.e. a low level of disruptiveness). Relatedly, most boats have more than on (set of) telltales, as measuring flow across nearly every part of a sail will provide useful trim information. Purpose-built racing sails, for example, typically have at least 2 pairs of luff telltales and 1 leech telltale.
+
+Regarding the soundscape, here's a video from the 2013 Tokyo Blind Sailing World Championship that can provide a sense of the fast action at top-level blind sailing events. It doesn't capture the sound level on the boats, but perhaps gives a sense of just how much the wind, water, and competitors' voices will affect audability.
+
+Given this vibrant soundscape, we've considered earbuds that can also deliver information from multiple other sources, including team conversations, or possibly a wearable with different types, locations and intensities of haptic feedback. A sleeve, for example, could simultaneously convey the actions of different telltales on various sails, allowing the trimmer a choice of when and where to focus.
 
 ## what's useful about the leech telltale?
 
